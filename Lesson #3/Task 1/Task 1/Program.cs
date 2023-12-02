@@ -50,7 +50,7 @@
             };
 
             Console.Write("more than 10: ");
-            increseTen.Invoke(arr);
+            moreThenTen.Invoke(arr);
        
         }
     }
