@@ -38,7 +38,7 @@
             neparni.Invoke(arr);
             Console.WriteLine();
 
-            FilterDelegate increseTen = (arr) =>
+            FilterDelegate moreThenTen = (arr) =>
             {
                 foreach (int i in arr)
                 {
