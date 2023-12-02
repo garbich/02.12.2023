@@ -49,7 +49,7 @@
                 }
             };
 
-            Console.Write("increase 10: ");
+            Console.Write("more than 10: ");
             increseTen.Invoke(arr);
        
         }
